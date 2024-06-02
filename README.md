@@ -1,11 +1,11 @@
 # Games
-A repository for the "Games" I play.
 
+## Steam Library
 
 ## Steep
 
 ### Description
 
-Skiing, Snowboarding, and adventure sports game placing you on the biggest lines of the world.
+<p>Skiing, Snowboarding, and adventure sports game placing you on the biggest lines of the world.</p>
 
 ---
