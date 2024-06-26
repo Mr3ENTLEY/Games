@@ -26,6 +26,9 @@
 ### Micrsoft Flight Simulator 2020
 #### Description
 
+## Minecraft Bedrock & Java
+### Description
+
 ### Planet Coaster
 #### Description
 
@@ -47,3 +50,5 @@
 ### Tropico 5
 #### Description
 ---
+
+## Xbox Library
