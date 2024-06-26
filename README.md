@@ -26,7 +26,7 @@
 ### Micrsoft Flight Simulator 2020
 #### Playtime:
 
-## Minecraft Bedrock & Java
+### Minecraft Bedrock & Java
 #### Playtime:
 
 ### Planet Coaster
