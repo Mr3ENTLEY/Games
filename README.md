@@ -3,52 +3,52 @@
 ## Steam Library
 
 ### 18 Wheels of Steel: Haulin'
-#### Playtime:
+#### Playtime: 2.1 hr
 
 ### Ancestors the Humankind Odyssey
-#### Playtime:
+#### Playtime: 0.1 hr
 
 ### Arma 3
-#### Playtime:
+#### Playtime: 419.9 hr
 
 ### BeamNG.drive
-#### Playtime:
+#### Playtime: 108.8 hr
 
 ### Besiege
-#### Playtime:
+#### Playtime: 1.0 hr
 
 ### Day-Z
-#### Playtime:
+#### Playtime: 78.0 hr
 
 ### DCS World Steam Edition
-#### Playtime:
+#### Playtime: 5.1 hr
 
 ### Micrsoft Flight Simulator 2020
-#### Playtime:
+#### Playtime: 263.2 hr
 
 ### Minecraft Bedrock & Java
-#### Playtime:
+#### Playtime: 
 
 ### Planet Coaster
-#### Playtime:
+#### Playtime: 0.1 hr
 
 ### Planet Zoo
-#### Playtime:
+#### Playtime: 76.1 hr
 
 ### Ready or Not
-#### Playtime:
+#### Playtime: 9.7 hr
 
 ### Squad
-#### Playtime:
+#### Playtime: 4.2 hr
 
 ### Steep
-#### Playtime:
+#### Playtime: 721.1 hr
 
 ### Tom Clancy's Rainbow Six Siege
-#### Playtime:
+#### Playtime: 3.6 hr
 
 ### Tropico 5
-#### Playtime:
+#### Playtime: 16.5 hr
 ---
 
 ## Xbox Library
