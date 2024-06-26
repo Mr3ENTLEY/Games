@@ -3,52 +3,67 @@
 ## Steam Library
 
 ### 18 Wheels of Steel: Haulin'
-#### Description
+#### Playtime:
 
 ### Ancestors the Humankind Odyssey
-#### Description
+#### Playtime:
 
 ### Arma 3
-#### Description
+#### Playtime:
 
 ### BeamNG.drive
-#### Description
+#### Playtime:
 
 ### Besiege
-#### Description
+#### Playtime:
 
 ### Day-Z
-#### Description
+#### Playtime:
 
 ### DCS World Steam Edition
-#### Description
+#### Playtime:
 
 ### Micrsoft Flight Simulator 2020
-#### Description
+#### Playtime:
 
 ## Minecraft Bedrock & Java
-### Description
+#### Playtime:
 
 ### Planet Coaster
-#### Description
+#### Playtime:
 
 ### Planet Zoo
-#### Description
+#### Playtime:
 
 ### Ready or Not
-#### Description
+#### Playtime:
 
 ### Squad
-#### Description
+#### Playtime:
 
 ### Steep
-#### Description
+#### Playtime:
 
 ### Tom Clancy's Rainbow Six Siege
-#### Description
+#### Playtime:
 
 ### Tropico 5
-#### Description
+#### Playtime:
 ---
 
 ## Xbox Library
+
+### NHL 22
+#### Playtime:
+
+### NHL 23
+#### Playtime:
+
+### Madden NFL 23
+#### Playtime:
+
+### Forza Horizons 5
+#### Playtime:
+
+### Steep
+#### Playtime:
