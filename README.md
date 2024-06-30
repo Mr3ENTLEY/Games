@@ -17,6 +17,9 @@
 ### Besiege
 #### Playtime: 1.0 hr
 
+### Cold Waters
+#### Playtime: 10.3 hr
+
 ### Day-Z
 #### Playtime: 78.0 hr
 
@@ -49,6 +52,9 @@
 
 ### Tropico 5
 #### Playtime: 16.5 hr
+
+### U-Boat
+#### Playtime: 8.8 hr
 ---
 
 ## Xbox Library
@@ -67,3 +73,4 @@
 
 ### Steep
 #### Playtime:
+
