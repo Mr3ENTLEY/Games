@@ -58,19 +58,21 @@
 ---
 
 ## Xbox Library
+### Grand Theft Auto V
+#### Playtime: 360.5 hr
 
 ### NHL 22
-#### Playtime:
+#### Playtime: 376.8 hr
 
 ### NHL 23
-#### Playtime:
+#### Playtime: 336.7 hr
 
 ### Madden NFL 23
-#### Playtime:
+#### Playtime: 11.5 hr
 
 ### Forza Horizons 5
-#### Playtime:
+#### Playtime: 183.6 hr
 
 ### Steep
-#### Playtime:
+#### Playtime: 16 hr
 
