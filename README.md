@@ -1,7 +1,7 @@
 # My Games & Stats
----
+
 ## Total Playtime: 
----
+
 ## Steam Library
 
 ### 18 Wheels of Steel: Haulin'
