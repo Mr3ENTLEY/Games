@@ -1,4 +1,4 @@
-# My Games
+# My Games & Stats
 
 ## Steam Library
 
