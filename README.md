@@ -89,6 +89,6 @@
 
 ### Steep
 #### Playtime:
-#### Description: (Duplicate entry) An open-world action sports game set in the Alps, featuring skiing, snowboarding, paragliding, and wingsuit flying.
+#### Description: An open-world action sports game set in the Alps, featuring skiing, snowboarding, paragliding, and wingsuit flying.
 
 
